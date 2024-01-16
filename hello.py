@@ -9,3 +9,5 @@ for i in range(1, 21):
         print("dream")
     elif i % 15 == 0:
         print("yeardream")
+    else:
+        print(i)
